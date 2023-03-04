@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
-public class Ch_03_03_Files_After {
+public class File_Interaction {
     private static final String APPIUM = "http://localhost:4723/wd/hub";
     private static final String ANDROID_PHOTO_PATH = "/mnt/sdcard/Pictures";
 
