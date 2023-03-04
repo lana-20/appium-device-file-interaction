@@ -28,3 +28,12 @@ The ***Appium file API*** is very simple and consists of two basic commands. 
 There are a few **limitations** to this API to keep in mind when I’m thinking of using it that have to do with where I’m allowed to place files or retrieve files from. 
 - [ ] On **iOS**, applications are sandboxed on the file system in their own containers, and I’m not able to access core system files. In other words, I’m limited to working within the app container.
 - [ ] On **Android**, I do have full root access, but only if I’m on an **emulator** or if the device has been **rooted**. 
+
+Here is a [Java script sample](https://github.com/lana-20/device-file-interaction/blob/main/file_interaction_appium_api.java) for the Appium file API:
+
+<img width="800" src="https://user-images.githubusercontent.com/70295997/222875857-eac8d06e-39ec-4fb9-b33b-8c2789e8128f.png">
+
+
+
+
+
