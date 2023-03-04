@@ -31,9 +31,5 @@ There are a few **limitations** to this API to keep in mind when I’m thinking
 
 Here is a [Java script sample](https://github.com/lana-20/device-file-interaction/blob/main/file_interaction_appium_api.java) for the Appium file API:
 
-<img width="800" src="https://user-images.githubusercontent.com/70295997/222875857-eac8d06e-39ec-4fb9-b33b-8c2789e8128f.png">
-
-
-
-
+<img width="800" src="https://user-images.githubusercontent.com/70295997/222876163-115ce966-ac00-4f9e-9889-877db251eb7e.png">
 
