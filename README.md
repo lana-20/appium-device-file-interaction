@@ -37,11 +37,11 @@ There are a few **limitations** to this API to keep in mind when I’m thinking
 - [ ] On **iOS**, applications are sandboxed on the file system in their own containers, and I’m not able to access core system files. In other words, I’m limited to working within the app container.
 - [ ] On **Android**, I do have full root access, but only if I’m on an **emulator** or if the device has been **rooted**. 
 
-Here is a [Java code sample](https://github.com/lana-20/device-file-interaction/blob/main/file_interaction_appium_api.java) for the Appium file API:
+Here is a ♨ [Java code sample](https://github.com/lana-20/device-file-interaction/blob/main/file_interaction_appium_api.java) for the Appium file API:
 
 <img width="800" src="https://user-images.githubusercontent.com/70295997/222876163-115ce966-ac00-4f9e-9889-877db251eb7e.png">
 
-In Python, an analogy would be as follows:
+In 🐍 Python, an analogy would be as follows:
 
 
 | File Management Commands |  |
